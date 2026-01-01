@@ -192,3 +192,8 @@ A detailed walkthrough of the project — from the initial idea to the final
 risk-based decision — will be published on Medium:
 
 **https://medium.com/@julio.pimp/por-que-accuracy-falha-em-projetos-reais-de-detec%C3%A7%C3%A3o-de-fraudes-ae405622aa2c**
+
+## 🚀 How to Run
+bash
+pip install -r requirements.txt
+python fraud_detection_pipeline.py
