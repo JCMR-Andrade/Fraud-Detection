@@ -191,4 +191,4 @@ As a result, thresholds became more stable and cost simulations more reliable.
 A detailed walkthrough of the project — from the initial idea to the final
 risk-based decision — will be published on Medium:
 
-**(https://medium.com/@julio.pimp/por-que-accuracy-falha-em-projetos-reais-de-detec%C3%A7%C3%A3o-de-fraudes-ae405622aa2c)**
+**https://medium.com/@julio.pimp/por-que-accuracy-falha-em-projetos-reais-de-detec%C3%A7%C3%A3o-de-fraudes-ae405622aa2c**
