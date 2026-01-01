@@ -1,0 +1,38 @@
+[
+    {
+        "model": "NaiveBaseline",
+        "roc_auc": 0.5,
+        "average_precision": 0.0017321489179921118,
+        "default_fp": 0,
+        "default_fn": 148,
+        "default_cost": 148000.0,
+        "tuned_threshold": 0.0017254869985822829,
+        "tuned_precision_fraud": 0.0017321489179921118,
+        "tuned_recall_fraud": 1.0,
+        "tuned_cost": 852950.0
+    },
+    {
+        "model": "LogisticRegression",
+        "roc_auc": 0.9682720779868912,
+        "average_precision": 0.7040913135351679,
+        "default_fp": 1803,
+        "default_fn": 18,
+        "default_cost": 36030.0,
+        "tuned_threshold": 0.006177324337846819,
+        "tuned_precision_fraud": 0.16050955414012738,
+        "tuned_recall_fraud": 0.8513513513513513,
+        "tuned_cost": 28590.0
+    },
+    {
+        "model": "RandomForest",
+        "roc_auc": 0.9333288840162044,
+        "average_precision": 0.8116980966094853,
+        "default_fp": 3,
+        "default_fn": 43,
+        "default_cost": 43030.0,
+        "tuned_threshold": 0.0035522446280948534,
+        "tuned_precision_fraud": 0.19384615384615383,
+        "tuned_recall_fraud": 0.8513513513513513,
+        "tuned_cost": 27240.0
+    }
+]

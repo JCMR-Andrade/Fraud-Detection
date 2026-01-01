@@ -1,0 +1,12 @@
+2025-12-27 14:12:37,166 - INFO - Downloading dataset...
+2025-12-27 14:13:05,041 - INFO - Training model: LogisticRegression
+2025-12-27 14:13:14,463 - INFO - Training model: RandomForest
+2025-12-27 14:15:28,367 - INFO - Pipeline execution completed successfully.
+2025-12-27 14:21:03,135 - INFO - Training model: NaiveBaseline
+2025-12-27 14:21:05,640 - INFO - Training model: LogisticRegression
+2025-12-27 14:21:08,703 - INFO - Training model: RandomForest
+2025-12-27 14:23:13,602 - INFO - Pipeline execution completed successfully.
+2025-12-30 19:22:26,103 - INFO - Training model: NaiveBaseline
+2025-12-30 19:22:31,392 - INFO - Training model: LogisticRegression
+2025-12-30 19:22:34,834 - INFO - Training model: RandomForest
+2025-12-30 19:27:49,641 - INFO - Pipeline execution completed successfully.
